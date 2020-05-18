@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box
+}
+
+body,
+div,
+html,
+p {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    font-family: "Lucida Grande"
+}
+
+a {
+    text-decoration: none
+}
+
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto
+}
+
+.top-wrapper {
+    padding: 180px 0 100px 0;
+    background-size: cover;
+    color: #fff;
+    text-align: center
+}
+
+.top-wrapper p {
+    opacity: .7;
+    margin-bottom: 3px
+}
+
+.btn-wrapper {
+    text-align: center;
+    margin: 20px 0
+}
+
+.btn-wrapper p {
+    margin: 10px 0
+}
+
+.signup {
+    background-color: #239b76
+}
+
+.facebook {
+    background-color: #3b5998;
+    margin-right: 10px
+}
+
+.twitter {
+    background-color: #55acee
+}
+
+.btn {
+    padding: 12px 24px;
+    color: #fff;
+    display: inline-block;
+    opacity: .8;
+    border-radius: 4px;
+    text-align: center
+}
+
+.btn:hover {
+    opacity: 1
+}
+
+.fa {
+    margin-right: 5px
+}
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, .9);
+    position: fixed;
+    top: 0;
+    z-index: 10
+}
+
+.header-left {
+    float: left;
+    color: #fff
+}
+
+.header-right {
+    float: right;
+    margin-right: -25px
+}
+
+.header-right a {
+    line-height: 65px;
+    padding: 0 25px;
+    color: #fff;
+    display: block;
+    float: left;
+    transition: all .5s
+}
+
+.header-right a:hover {
+    background-color: rgba(255, 255, 255, .3)
+}
+
+footer img {
+    width: 125px
+}
+
+footer p {
+    color: #b3aeb5;
+    font-size: 12px
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 20px
+}
+
+.menu-icon {
+    color: #fff;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    display: none
+}
