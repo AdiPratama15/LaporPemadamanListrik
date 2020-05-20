@@ -7,10 +7,10 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 - Pihak PLN kurang begitu detil mendapatkan informasi pelaporan, hanya dapat informasi klaim nama dan nomor handphone tercatat.
 - Perlu adanya transparansi pelaporan pemadaman listrik supaya public data bisa dijadikan penelitian lebih lanjut atau bisa dijadikan data training penelitian.
 - Perlu adanya blacklist atau suspend waktu tertentu pada pelapor fiktif supaya tidak spam laporan fiktif.
-
-### Todos
+- Miss-hearing, salah dengar atau kurang jelas ketika proses penyampaian alamat melalui telpon regular.
 
 # Features need to build:
+### Todos
 - Tampilkan peta laporan pemadaman listrik,
 - Tampilkan tabel history pelaporan,
 - register menggunakan verifikasi kode OTP,
