@@ -5,7 +5,7 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 # Background problem
 Terdapat kendala atau keluhan pelaporan pakai sistem konvensional menggunakan telepon sifatnya masih berbayar.
 Pihak PLN kurang begitu detil mendapatkan informasi pelaporan, hanya dapat informasi klaim nama dan nomor handphone tercatat.
-Perlu adanya transparansi pelaporan pemadaman listrik supaya public data bisa dijadikan penelitian lebih lanjut atau bisa dijadikan data training penelitian lainnya.
+Perlu adanya transparansi pelaporan pemadaman listrik supaya public data bisa dijadikan penelitian lebih lanjut atau bisa dijadikan data training penelitian.
 
 ### Todos
 
