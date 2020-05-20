@@ -13,8 +13,8 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 - suspend account pelapor fiktif dengan durasi tertentu.
 
 ## SmartyPants
-|ID_laporan      |NIK (max_length=16)            |Time                         |
+|ID_laporan      |NIK (max_length=16) (min_length=16) |Time                    |
 |----------------|-------------------------------|-----------------------------|
 |00000001		 |351902682323233            |30 Mei 2020            |
-|00000002        |            |             |
-|00000003		 |351`|                          |
+|00000002        |                             |             |
+|00000003		 |351                           |                          |
