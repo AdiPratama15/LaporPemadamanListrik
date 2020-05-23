@@ -34,3 +34,7 @@ A --> C(Login)
 B --> D{Verifikasi}
 C --> D
 ```
+
+References:
+Koyuko, H., Sinsuw, A. A., & Najoan, X. B. (2016). Perancangan Aplikasi Monitoring Pemadaman Listrik Berbasis Android Studi kasus PT. PLN area Manado. Jurnal Teknik Informatika, 9(1).
+https://ejournal.unsrat.ac.id/index.php/informatika/article/view/13903
