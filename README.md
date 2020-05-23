@@ -26,6 +26,7 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 |00000002        |                             |                    |
 |00000003		 |351                           |                          |
 
+## UML diagrams
 ```mermaid
 graph LR
 A[Register] -- Link text --> B((Report))
