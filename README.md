@@ -25,3 +25,11 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 |00000001		 |351902682323233                   |30 Mei 2020            |
 |00000002        |                             |                    |
 |00000003		 |351                           |                          |
+
+```mermaid
+graph LR
+A[Register] -- Link text --> B((Report))
+A --> C(Login)
+B --> D{Verifikasi}
+C --> D
+```
