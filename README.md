@@ -11,6 +11,12 @@ Projek ini merupakan pengembangan sistem informasi pelaporan pemadaman listrik b
 
 ## Chapter II
 
+## 🖥 Environment Support
+
+- Modern browsers and Internet Explorer 11 (with [polyfills](https://stackoverflow.com/questions/57020976/polyfills-in-2019-for-ie11))
+- Server-side Rendering
+- [Electron](https://www.electronjs.org/)
+
 ## Features need to build:
 ### Todos
 - Tampilkan peta laporan pemadaman listrik,
@@ -38,7 +44,7 @@ But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully be
 
 If you'd like to contribute financially towards the effort (or any of my other OSS efforts), please consider these options:
 
-* [Github Sponsorship](https://github.com/users/AdiPratam15/sponsorship)
+* [Github Sponsorship](https://github.com/users/AdiPratama15/sponsorship)
 
 ## References:
 - Koyuko, H., Sinsuw, A. A., & Najoan, X. B. (2016). Perancangan Aplikasi Monitoring Pemadaman Listrik Berbasis Android Studi kasus PT. PLN area Manado. Jurnal Teknik Informatika, 9(1).
