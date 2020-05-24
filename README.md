@@ -26,15 +26,6 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 |00000002        |                             |                    |
 |00000003		 |351                           |                          |
 
-## UML diagrams
-```mermaid
-graph LR
-A[Register] -- Link text --> B((Report))
-A --> C(Login)
-B --> D{Verifikasi}
-C --> D
-```
-
 References:
 Koyuko, H., Sinsuw, A. A., & Najoan, X. B. (2016). Perancangan Aplikasi Monitoring Pemadaman Listrik Berbasis Android Studi kasus PT. PLN area Manado. Jurnal Teknik Informatika, 9(1).
 https://ejournal.unsrat.ac.id/index.php/informatika/article/view/13903
