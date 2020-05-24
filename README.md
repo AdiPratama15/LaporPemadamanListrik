@@ -1,6 +1,6 @@
 # Welcome to LaporPemadamanListrik Project
 
-Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melaporkan pemadaman listrik berbasis website html css dan javascript.
+Projek ini merupakan pengembangan sistem informasi pelaporan pemadaman listrik berbasis website.
 
 # Background problem (Latar Belakang Permasalahan)
 - Terdapat kendala atau keluhan pelaporan pakai sistem konvensional menggunakan telepon regular sifatnya masih berbayar.
@@ -28,6 +28,6 @@ Projek ini digunakan untuk kebutuhan pengembangan sistem informasi untuk melapor
 |00000002        |                             |                    |
 |00000003		 |351                           |                          |
 
-References:
+# References:
 - Koyuko, H., Sinsuw, A. A., & Najoan, X. B. (2016). Perancangan Aplikasi Monitoring Pemadaman Listrik Berbasis Android Studi kasus PT. PLN area Manado. Jurnal Teknik Informatika, 9(1).
 https://ejournal.unsrat.ac.id/index.php/informatika/article/view/13903
