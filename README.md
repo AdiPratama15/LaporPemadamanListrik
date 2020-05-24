@@ -36,6 +36,10 @@ Any contributions you make to this effort **are of course greatly appreciated**.
 
 But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
 
+If you'd like to contribute financially towards the effort (or any of my other OSS efforts), please consider these options:
+
+* [Github Sponsorship](https://github.com/users/AdiPratam15/sponsorship)
+
 ## References:
 - Koyuko, H., Sinsuw, A. A., & Najoan, X. B. (2016). Perancangan Aplikasi Monitoring Pemadaman Listrik Berbasis Android Studi kasus PT. PLN area Manado. Jurnal Teknik Informatika, 9(1).
 https://ejournal.unsrat.ac.id/index.php/informatika/article/view/13903
