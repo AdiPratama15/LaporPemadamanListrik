@@ -23,6 +23,23 @@ Projek ini merupakan pengembangan sistem informasi pelaporan pemadaman listrik b
 npm install
 ```
 
+## ⌨️ Development
+
+Use Gitpod, a free online dev environment for GitHub.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]
+
+Or clone locally:
+
+```bash
+$ git clone git@github.com:AdiPratama15/LaporPemadamanListrik.git
+$ cd LaporPemadamanListrik
+$ npm install
+$ npm start
+```
+
+Open your browser and visit locally.
+
 ## Features need to build:
 ### Todos
 - Tampilkan peta laporan pemadaman listrik,
