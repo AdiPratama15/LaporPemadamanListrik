@@ -17,6 +17,12 @@ Projek ini merupakan pengembangan sistem informasi pelaporan pemadaman listrik b
 - Server-side Rendering
 - [Electron](https://www.electronjs.org/)
 
+## 📦 Install
+
+```bash
+npm install
+```
+
 ## Features need to build:
 ### Todos
 - Tampilkan peta laporan pemadaman listrik,
