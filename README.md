@@ -40,7 +40,7 @@ npm install
 |00000002        |                             |                    |
 |00000003		 |351                           |                          |
 
-## Contributions
+## 🤝Contributions
 
 Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing/publishing processes, **so please don't worry about them right now.**
 
