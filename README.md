@@ -7,7 +7,7 @@ Projek ini merupakan pengembangan sistem informasi pelaporan pemadaman listrik b
 - Pihak PLN kurang begitu detil mendapatkan informasi pelaporan, hanya dapat informasi klaim nama dan nomor handphone tercatat.
 - Perlu adanya transparansi pelaporan pemadaman listrik supaya public data bisa dijadikan penelitian lebih lanjut atau bisa dijadikan data training penelitian.
 - Perlu adanya blacklist atau suspend waktu tertentu pada pelapor fiktif supaya tidak spam laporan fiktif.
-- Miss-hearing, salah dengar atau kurang jelas ketika proses penyampaian alamat melalui telpon regular.
+- *Miss-hearing*, salah dengar atau kurang jelas ketika proses penyampaian alamat melalui telpon regular.
 
 ## Chapter II
 
